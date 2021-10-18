@@ -1,5 +1,11 @@
-# Android Developer
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoongsnote&count_bg=%233DC83D&title_bg=%232261EB&icon=android.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# 🙋‍♂️ Hi there!
+- 🖥️ I'm a Android Developer
+- 💡 I'm interested in many things
+- 
+## 📫 How to reach me?
+- woong's email
+- woong's blog
+
 <!--
 **woongsnote/woongsnote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woongsnote&&show_icons=true&theme=dark)
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoongsnote&count_bg=%233DC83D&title_bg=%232261EB&icon=android.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
