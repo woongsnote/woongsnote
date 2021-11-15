@@ -1,5 +1,6 @@
 # 🙋‍♂️ Hi there!
 - 🖥️ I'm a Android Developer
+- 🖥️ I'm a Front-End Developer
 - 💡 I'm interested in many things
 
 ## stack
