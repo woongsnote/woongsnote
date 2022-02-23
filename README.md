@@ -26,6 +26,6 @@ I'm interested in many things.
 </p>
 <br/>
 
-![woongsnote's GitHub stats](https://github-readme-stats.vercel.app/api?username=woongsnote&hide=stars&show_icons=true&theme=default)
+![woongsnote's GitHub stats](https://github-readme-stats.vercel.app/api?username=woongsnote&show_icons=true&theme=default)
 [![woongsnote's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=woongsnote&hide=typescript&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/woongsnote)
 
