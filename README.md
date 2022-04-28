@@ -5,7 +5,7 @@ I'm interested in many things.
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoongsnote&count_bg=%233DC83D&title_bg=%232261EB&icon=android.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
   
-## ⭐ Tech Stack ⭐ (Techs that I've used at least once.) 
+## ⭐ Tech Stack ⭐ 
 
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>
