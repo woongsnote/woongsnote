@@ -9,18 +9,12 @@
   </a>
   
 
-## ⚒️ Technologies and Tools I use:  
+**languages and tools:**  
 
-<p>
+  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="kotlin" width="32" height="32"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="32" height="32"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="32" height="32"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="32" height="32"/>
+
   
-  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="kotlin" width="32" height="32"/> 
-  
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="32" height="32"/> 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="320" />
 
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="32" height="32"/>
- 
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="32" height="32"/>
-</p>
-
-![woongsnote's GitHub stats](https://github-readme-stats.vercel.app/api?username=woongsnote&show_icons=true&theme=github_dark)
+![woongsnote's GitHub stats](https://github-readme-stats.vercel.app/api?username=woongsnote&show_icons=true)
   
