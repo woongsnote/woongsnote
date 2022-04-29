@@ -1,9 +1,9 @@
-<h2 align="left">
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-</h2>   
-  <br> Hi! I'm a junior android developer 🖥️.
-  <br> I made an app for movie review.
-  <br>
+  ### Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  
+  Hi, I'm a junior android developer. I can make android app in kotlin or flutter. 
+  
+ My latest Project is Movie Review. You can download my app by click the link.
+  
   <a href="https://play.google.com/store/apps/details?id=com.woongsnote.mcb">
     <img alt="PlayStore Link" width="100px" src="https://www.vectorlogo.zone/logos/google_play/google_play-ar21.svg" />
   </a>
