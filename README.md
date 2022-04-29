@@ -2,13 +2,9 @@
   
   Hi, I'm a junior android developer. I can make android app in kotlin or flutter. 
   
- My latest Project is Movie Review. You can download my app by click the link.
-  
-  <a href="https://play.google.com/store/apps/details?id=com.woongsnote.mcb">
-    <img alt="PlayStore Link" width="100px" src="https://www.vectorlogo.zone/logos/google_play/google_play-ar21.svg" />
-  </a>
-  
-
+ My latest Project is Movie Review. You can download my app by  <a href="https://play.google.com/store/apps/details?id=com.woongsnote.mcb">
+  click here</a>.
+ 
 **languages and tools:**  
 
   <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="kotlin" width="32" height="32"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="32" height="32"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="32" height="32"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="32" height="32"/>
