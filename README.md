@@ -6,7 +6,7 @@
 
 **languages and tools:** 
 
-- FrontEnd : `React`, `Html/CSS` , `Javascript`, `Typescript`, `Next.js` 
+- FrontEnd : `React`, `Html/CSS` , `JavaScript`, `TypeScript`, `Next.js` 
   
  <img align="right" alt="GIF" src="https://github.com/woongsnote/woongsnote/blob/dff6a17a5081bea01a5b0b0287ec45814e029fcc/programming.gif" width="320" />
 
