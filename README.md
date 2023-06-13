@@ -7,10 +7,6 @@
 
 ## **Tech Stacks** 
 
-- FrontEnd : `React`, `Html/CSS` , `JavaScript`, `TypeScript`, `Next.js` ,
-- Tools    : `VSCode`, `Notion`
-  
- <img align="right" alt="GIF" src="https://github.com/woongsnote/woongsnote/blob/dff6a17a5081bea01a5b0b0287ec45814e029fcc/programming.gif" width="320" />
-
-![woongsnote's GitHub stats](https://github-readme-stats.vercel.app/api?username=woongsnote&show_icons=true)
+- FrontEnd: `React`, `Html/CSS` , `JavaScript`, `TypeScript`, `Axios`, `Redux`, `RTK`, `React-Query`, `Next.js` 
+- Tools & Collaboration: `VSCode`, `Notion`, `Slack`, `Discord`
   
