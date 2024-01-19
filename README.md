@@ -5,7 +5,8 @@ Web Developer
 -------------
 
 * 🌍  I'm based in Seoul
-* 🖥️  See my portfolio at [MyPortfolio](http://woongsnote-portfolio.vercel.app)
+* 🖥️  See my portfolio at [woongsnote-portfolio.vercel.app](http://woongsnote-portfolio.vercel.app)
+* 🖥️  See my tech blog at [woongsnote.dev](http://woongsnote.dev)
 * ✉️  You can contact me at [woongsnote@gmail.com](mailto:woongsnote@gmail.com)
 * 🧠  I'm learning Next.js, TypeScript
 * 🤝  I'm open to collaborating on interesting projects
