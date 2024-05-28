@@ -27,3 +27,5 @@ Web Developer
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/woongsnote/woongsnote-dev" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=woongsnote&repo=woongsnote-dev&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/woongsnote/my-portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=woongsnote&repo=my-portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<a href="https://app.daily.dev/woongsnote"><img src="https://api.daily.dev/devcards/v2/ABqhZHtMLGkeDSVjh0hMk.png?type=default&r=ptn" width="356" alt="Jiwoong Moon's Dev Card"/></a>
